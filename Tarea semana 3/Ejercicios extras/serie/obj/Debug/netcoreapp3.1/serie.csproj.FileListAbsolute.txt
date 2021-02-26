@@ -1,0 +1,13 @@
+C:\Users\charly\Desktop\serie\bin\Debug\netcoreapp3.1\serie.exe
+C:\Users\charly\Desktop\serie\bin\Debug\netcoreapp3.1\serie.deps.json
+C:\Users\charly\Desktop\serie\bin\Debug\netcoreapp3.1\serie.runtimeconfig.json
+C:\Users\charly\Desktop\serie\bin\Debug\netcoreapp3.1\serie.runtimeconfig.dev.json
+C:\Users\charly\Desktop\serie\bin\Debug\netcoreapp3.1\serie.dll
+C:\Users\charly\Desktop\serie\bin\Debug\netcoreapp3.1\serie.pdb
+C:\Users\charly\Desktop\serie\obj\Debug\netcoreapp3.1\serie.csprojAssemblyReference.cache
+C:\Users\charly\Desktop\serie\obj\Debug\netcoreapp3.1\serie.AssemblyInfoInputs.cache
+C:\Users\charly\Desktop\serie\obj\Debug\netcoreapp3.1\serie.AssemblyInfo.cs
+C:\Users\charly\Desktop\serie\obj\Debug\netcoreapp3.1\serie.csproj.CoreCompileInputs.cache
+C:\Users\charly\Desktop\serie\obj\Debug\netcoreapp3.1\serie.dll
+C:\Users\charly\Desktop\serie\obj\Debug\netcoreapp3.1\serie.pdb
+C:\Users\charly\Desktop\serie\obj\Debug\netcoreapp3.1\serie.genruntimeconfig.cache
