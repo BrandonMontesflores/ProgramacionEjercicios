@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Adivinando.Cumpleaños">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand">
+            <Label Text="Piensa el día en que naciste y sigue los pasos..." TextColor="Black"/>
+            <Label Text="1.Ese número mutiplícalo por 20"/>
+            <Label Text="2.Ahora debes sumarle 73"/>
+            <Label Text="3.Ahora multiplícalo por 5"/>
+            <Label Text="4.Suma el número del mes de tu cumpleaños"/>
+            <Label Text="¿Qué resultado tienes?"/>
+            <Entry Placeholder="Escribir" x:Name="numero"/>
+
+            <Button Text="Adivinar" Clicked="Button_Clicked" BackgroundColor="Coral"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

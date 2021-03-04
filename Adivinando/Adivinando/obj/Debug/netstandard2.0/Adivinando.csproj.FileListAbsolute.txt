@@ -1,0 +1,16 @@
+C:\Users\charly\Desktop\Adivinando\Adivinando\bin\Debug\netstandard2.0\Adivinando.deps.json
+C:\Users\charly\Desktop\Adivinando\Adivinando\bin\Debug\netstandard2.0\Adivinando.dll
+C:\Users\charly\Desktop\Adivinando\Adivinando\bin\Debug\netstandard2.0\ref\Adivinando.dll
+C:\Users\charly\Desktop\Adivinando\Adivinando\bin\Debug\netstandard2.0\Adivinando.pdb
+C:\Users\charly\Desktop\Adivinando\Adivinando\obj\Debug\netstandard2.0\Adivinando.csprojAssemblyReference.cache
+C:\Users\charly\Desktop\Adivinando\Adivinando\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\charly\Desktop\Adivinando\Adivinando\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\charly\Desktop\Adivinando\Adivinando\obj\Debug\netstandard2.0\Adivinando.AssemblyInfoInputs.cache
+C:\Users\charly\Desktop\Adivinando\Adivinando\obj\Debug\netstandard2.0\Adivinando.AssemblyInfo.cs
+C:\Users\charly\Desktop\Adivinando\Adivinando\obj\Debug\netstandard2.0\Adivinando.csproj.CoreCompileInputs.cache
+C:\Users\charly\Desktop\Adivinando\Adivinando\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\charly\Desktop\Adivinando\Adivinando\obj\Debug\netstandard2.0\Adivinando.dll
+C:\Users\charly\Desktop\Adivinando\Adivinando\obj\Debug\netstandard2.0\ref\Adivinando.dll
+C:\Users\charly\Desktop\Adivinando\Adivinando\obj\Debug\netstandard2.0\Adivinando.pdb
+C:\Users\charly\Desktop\Adivinando\Adivinando\obj\Debug\netstandard2.0\Cumpleaños.xaml.g.cs
+C:\Users\charly\Desktop\Adivinando\Adivinando\obj\Debug\netstandard2.0\Número.xaml.g.cs

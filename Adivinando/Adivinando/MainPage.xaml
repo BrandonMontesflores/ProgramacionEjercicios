@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Adivinando.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="Coral" Padding="24" CornerRadius="0">
+            <Label Text="¡Bienvenido a Adivinando!" HorizontalTextAlignment="Center" TextColor="White" FontSize="44"/>
+        </Frame>
+        <Label Text="¡Tú eliges!" HorizontalOptions="Center" VerticalOptions="Center" Padding="15" FontSize="30"/>
+        <Label Text="¿Qué deseas que adivine?" HorizontalOptions="Center" VerticalOptions="Center" Padding="10" FontSize="20"/>
+        <Button Text="Número" Clicked="Button_Clicked" HorizontalOptions="Center" VerticalOptions="Center" BackgroundColor="Coral"/>
+        <Button Text="Cumpleaños" Clicked="Button_Clicked_1" HorizontalOptions="Center" VerticalOptions="Center" BackgroundColor="Coral"/>
+
+
+
+    </StackLayout>
+
+</ContentPage>
