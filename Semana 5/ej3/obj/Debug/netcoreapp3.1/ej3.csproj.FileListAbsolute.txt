@@ -1,0 +1,26 @@
+C:\Users\charly\Desktop\ej3\bin\Debug\netcoreapp3.1\ej3.exe
+C:\Users\charly\Desktop\ej3\bin\Debug\netcoreapp3.1\ej3.deps.json
+C:\Users\charly\Desktop\ej3\bin\Debug\netcoreapp3.1\ej3.runtimeconfig.json
+C:\Users\charly\Desktop\ej3\bin\Debug\netcoreapp3.1\ej3.runtimeconfig.dev.json
+C:\Users\charly\Desktop\ej3\bin\Debug\netcoreapp3.1\ej3.dll
+C:\Users\charly\Desktop\ej3\bin\Debug\netcoreapp3.1\ej3.pdb
+C:\Users\charly\Desktop\ej3\obj\Debug\netcoreapp3.1\ej3.csprojAssemblyReference.cache
+C:\Users\charly\Desktop\ej3\obj\Debug\netcoreapp3.1\ej3.AssemblyInfoInputs.cache
+C:\Users\charly\Desktop\ej3\obj\Debug\netcoreapp3.1\ej3.AssemblyInfo.cs
+C:\Users\charly\Desktop\ej3\obj\Debug\netcoreapp3.1\ej3.csproj.CoreCompileInputs.cache
+C:\Users\charly\Desktop\ej3\obj\Debug\netcoreapp3.1\ej3.dll
+C:\Users\charly\Desktop\ej3\obj\Debug\netcoreapp3.1\ej3.pdb
+C:\Users\charly\Desktop\ej3\obj\Debug\netcoreapp3.1\ej3.genruntimeconfig.cache
+C:\Users\charly\Desktop\Semana 5\ej3\bin\Debug\netcoreapp3.1\ej3.exe
+C:\Users\charly\Desktop\Semana 5\ej3\bin\Debug\netcoreapp3.1\ej3.deps.json
+C:\Users\charly\Desktop\Semana 5\ej3\bin\Debug\netcoreapp3.1\ej3.runtimeconfig.json
+C:\Users\charly\Desktop\Semana 5\ej3\bin\Debug\netcoreapp3.1\ej3.runtimeconfig.dev.json
+C:\Users\charly\Desktop\Semana 5\ej3\bin\Debug\netcoreapp3.1\ej3.dll
+C:\Users\charly\Desktop\Semana 5\ej3\bin\Debug\netcoreapp3.1\ej3.pdb
+C:\Users\charly\Desktop\Semana 5\ej3\obj\Debug\netcoreapp3.1\ej3.csprojAssemblyReference.cache
+C:\Users\charly\Desktop\Semana 5\ej3\obj\Debug\netcoreapp3.1\ej3.AssemblyInfoInputs.cache
+C:\Users\charly\Desktop\Semana 5\ej3\obj\Debug\netcoreapp3.1\ej3.AssemblyInfo.cs
+C:\Users\charly\Desktop\Semana 5\ej3\obj\Debug\netcoreapp3.1\ej3.csproj.CoreCompileInputs.cache
+C:\Users\charly\Desktop\Semana 5\ej3\obj\Debug\netcoreapp3.1\ej3.dll
+C:\Users\charly\Desktop\Semana 5\ej3\obj\Debug\netcoreapp3.1\ej3.pdb
+C:\Users\charly\Desktop\Semana 5\ej3\obj\Debug\netcoreapp3.1\ej3.genruntimeconfig.cache

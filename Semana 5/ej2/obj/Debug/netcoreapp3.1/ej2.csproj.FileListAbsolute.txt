@@ -1,0 +1,13 @@
+C:\Users\charly\Desktop\ej2\bin\Debug\netcoreapp3.1\ej2.exe
+C:\Users\charly\Desktop\ej2\bin\Debug\netcoreapp3.1\ej2.deps.json
+C:\Users\charly\Desktop\ej2\bin\Debug\netcoreapp3.1\ej2.runtimeconfig.json
+C:\Users\charly\Desktop\ej2\bin\Debug\netcoreapp3.1\ej2.runtimeconfig.dev.json
+C:\Users\charly\Desktop\ej2\bin\Debug\netcoreapp3.1\ej2.dll
+C:\Users\charly\Desktop\ej2\bin\Debug\netcoreapp3.1\ej2.pdb
+C:\Users\charly\Desktop\ej2\obj\Debug\netcoreapp3.1\ej2.csprojAssemblyReference.cache
+C:\Users\charly\Desktop\ej2\obj\Debug\netcoreapp3.1\ej2.AssemblyInfoInputs.cache
+C:\Users\charly\Desktop\ej2\obj\Debug\netcoreapp3.1\ej2.AssemblyInfo.cs
+C:\Users\charly\Desktop\ej2\obj\Debug\netcoreapp3.1\ej2.csproj.CoreCompileInputs.cache
+C:\Users\charly\Desktop\ej2\obj\Debug\netcoreapp3.1\ej2.dll
+C:\Users\charly\Desktop\ej2\obj\Debug\netcoreapp3.1\ej2.pdb
+C:\Users\charly\Desktop\ej2\obj\Debug\netcoreapp3.1\ej2.genruntimeconfig.cache
