@@ -1,0 +1,10 @@
+C:\Users\charly\Desktop\lista\bin\Debug\lista.exe.config
+C:\Users\charly\Desktop\lista\bin\Debug\lista.exe
+C:\Users\charly\Desktop\lista\bin\Debug\lista.pdb
+C:\Users\charly\Desktop\lista\obj\Debug\lista.csprojAssemblyReference.cache
+C:\Users\charly\Desktop\lista\obj\Debug\lista.Form1.resources
+C:\Users\charly\Desktop\lista\obj\Debug\lista.Properties.Resources.resources
+C:\Users\charly\Desktop\lista\obj\Debug\lista.csproj.GenerateResource.cache
+C:\Users\charly\Desktop\lista\obj\Debug\lista.csproj.CoreCompileInputs.cache
+C:\Users\charly\Desktop\lista\obj\Debug\lista.exe
+C:\Users\charly\Desktop\lista\obj\Debug\lista.pdb
