@@ -1,0 +1,10 @@
+C:\Users\charly\Desktop\parcial2\bin\Debug\parcial2.exe.config
+C:\Users\charly\Desktop\parcial2\bin\Debug\parcial2.exe
+C:\Users\charly\Desktop\parcial2\bin\Debug\parcial2.pdb
+C:\Users\charly\Desktop\parcial2\obj\Debug\parcial2.csprojAssemblyReference.cache
+C:\Users\charly\Desktop\parcial2\obj\Debug\parcial2.Form1.resources
+C:\Users\charly\Desktop\parcial2\obj\Debug\parcial2.Properties.Resources.resources
+C:\Users\charly\Desktop\parcial2\obj\Debug\parcial2.csproj.GenerateResource.cache
+C:\Users\charly\Desktop\parcial2\obj\Debug\parcial2.csproj.CoreCompileInputs.cache
+C:\Users\charly\Desktop\parcial2\obj\Debug\parcial2.exe
+C:\Users\charly\Desktop\parcial2\obj\Debug\parcial2.pdb
